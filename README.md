@@ -1,6 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -35,7 +32,7 @@
       <img src="https://github.com/William1199/Facilities-Feedback-Management/blob/main/web/img/2021-11-29%20(17).png"></br>
       <p>Employee view history </p>
       <img src="https://github.com/William1199/Facilities-Feedback-Management/blob/main/web/img/2021-11-29%20(18).png"></br>
-      (http://neveslos.xyz/SWP391_PROJECT/)
+      [And more](http://neveslos.xyz/SWP391_PROJECT/)
     </details>
     <br />
   </p>
