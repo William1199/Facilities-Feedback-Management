@@ -8,6 +8,18 @@
   <h1 align="center">Facilities' Feedback Management for FPT University</h1>
 
   <p align="center">
+    <details><summary>Our Team</summary>
+    <h4>Team Back-end: </h4>
+    <p>- Trần Chí Hiếu </p>
+    <p>- Huỳnh Anh Khoa </p>
+    <p>- Nguyễn Anh Thịnh </p>
+    </br>
+    <h4>Team Front-end: </h4>
+    <p>- Nguyễn Dương Minh Đức </p>
+    <p>- Bùi Đức Uy Dũng </p>
+     </p>
+    </details>
+    </br>
     <details><summary>More Details</summary>
       <p>Login</p>
       <img src="https://github.com/William1199/Facilities-Feedback-Management/blob/main/web/img/2021-11-29%20(8).png"></br>
@@ -32,12 +44,10 @@
       <img src="https://github.com/William1199/Facilities-Feedback-Management/blob/main/web/img/2021-11-29%20(17).png"></br>
       <p>Employee view history </p>
       <img src="https://github.com/William1199/Facilities-Feedback-Management/blob/main/web/img/2021-11-29%20(18).png"></br>
-      And more in ![here](http://neveslos.xyz/SWP391_PROJECT/)
-      
-      [Facilities' Feedback Management for FPTU Project](http://neveslos.xyz/SWP391_PROJECT/)
+      [And more](http://neveslos.xyz/SWP391_PROJECT/)
     </details>
     <br />
   </p>
 </p>
 <h2>Overview</h2>
-This project
+The Facilities' Feedback Management for FPT University is a new solution for students who want to report facilities in University without coming to Manager Office report and filling in any papers. This system help Manager to handle facilities, reports and users easier. Moreover, by using system, Manager can easily assign task to the right employee depend on the facilities type.
